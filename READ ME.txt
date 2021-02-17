@@ -1,0 +1,12 @@
+Target Group
+
+Set of web page designed using html and css to demonstrate for educational purpose and for research.
+
+Objective
+
+Getting practical experience to a website designed from web page using html and css demonstrate what was learned about UI/UX in the course.
+prepare web forms using css
+using hypertext reference to navigate between pages
+Hosting basic website using github pages ( subfeature of github reposities)
+
+# FILAGOT HAILU.gitub.io

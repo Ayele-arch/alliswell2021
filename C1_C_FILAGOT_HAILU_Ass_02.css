@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  text-align: left;
+}
+h2 {
+  color: blue;
+  text-align: left;
+}
+h3 {
+  color: black;
+  text-align: left;
+}
+
+body {
+  padding: 2%;
+  padding-top: 1%;
+  background-image: url("02.png");
+  height: fit-content;
+  background-size: cover;
+
+  background-repeat: no-repeat;
+  width: auto;s
+}
+a {
+  background-color: rgb(235, 137, 91);
+  color: white;
+  padding: 1em 1.5em;
+  text-transform: uppercase;
+}
